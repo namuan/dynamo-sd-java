@@ -77,7 +77,7 @@ for (ServiceData service : serviceDataList) {
 For local development, please make sure that you are running [Local DynamoDB](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Tools.DynamoDBLocal.html#Tools.DynamoDBLocal.DownloadingAndRunning)
 
 ```
-git clone 
-cd 
+git clone https://github.com/namuan/dynamo-sd-java.git
+cd dynamo-sd-java
 gradle test
 ```
