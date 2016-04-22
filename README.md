@@ -81,3 +81,9 @@ git clone https://github.com/namuan/dynamo-sd-java.git
 cd dynamo-sd-java
 gradle test
 ```
+
+#### Todo
+
+- Add local caching support
+- Allow overriding config table name
+
