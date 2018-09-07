@@ -2,6 +2,8 @@
 
 A simple Java library to lookup service information stored in DynamoDB.
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/a206a06116a571b553f5/maintainability)](https://codeclimate.com/github/namuan/dynamo-sd-java/maintainability)
+
 #### Installation
 
 ```
